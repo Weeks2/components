@@ -11,6 +11,17 @@
 3. Provedor
 4. Cantidad Solicitada
 
+(3) Input Raw Material
+1. Fecha de recibo
+2. Materia Prima
+3. Cantidad
+4. Pedido
+5. Entrego
+6. Recibio
+7. Lote
+8. Disposicion
+9. Observaciones
+
 (4) Output Raw Material
 1. Materia Prima
 2. Codigo
